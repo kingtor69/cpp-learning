@@ -1,0 +1,3 @@
+/Users/kingtor/Documents/github-public-repos/cplusplus-learning/CLionProjects/FirstProject/cmake-build-debug/CMakeFiles/FirstProject.dir
+/Users/kingtor/Documents/github-public-repos/cplusplus-learning/CLionProjects/FirstProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kingtor/Documents/github-public-repos/cplusplus-learning/CLionProjects/FirstProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
